@@ -1,7 +1,7 @@
 ## Welcome to my profile!✨
 
 
-I'm currently in the last week of a software development bootcamp at Austin Community College. I had virtually no coding experience beforehand & I've learned so much in the last six months, but I'm not done learning! Keep an eye on this profile to check my progress & browse my code. Any feedback is much appreciated!
+Howdy! I'm an aspiring Web Developer in Austin, Texas. I began my coding journey in the early days of social media editing the HTML of my Myspace page. Technology has come a long way, and I'm excited to be a part of this coding world full of never ending learning and growth.🪴
 
 
 ### What I've learned so far
