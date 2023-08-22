@@ -5,6 +5,6 @@ Howdy! I'm an aspiring Web Developer in Austin, Texas. I began my coding journey
 
 ***
 
-## Completed Courses:
+## Currently Studying 📝:
 
-<img src="https://github.com/marfawilson/marfawilson/assets/85182875/86debe85-e73f-4310-bd37-81996abe9c2b" width="600" height="400" alt="Course Completion Certificate">
++ [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/ "Don't imitate, understand!")
