@@ -5,9 +5,10 @@ Howdy! I'm an aspiring Web Developer in Austin, Texas. I began my coding journey
 
 ## Currently Studying 📝:
 
-+ [JavaScript: Understanding ES6 and Beyond](https://www.udemy.com/course/javascript-understanding-es6-and-beyond/)
++ [20 Web Projects with Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/ "Click to visit course page")
 
 ## Completed Courses ✅:
 
-+ [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/ "Don't imitate, understand!")
-+ [Understanding HTML and CSS](https://www.udemy.com/course/understanding-html-and-css/)
++ [JavaScript: Understanding ES6 and Beyond](https://www.udemy.com/course/javascript-understanding-es6-and-beyond/ "Click to visit course page")
++ [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/ "Click to visit course page")
++ [Understanding HTML and CSS](https://www.udemy.com/course/understanding-html-and-css/ "Click to visit course page")
