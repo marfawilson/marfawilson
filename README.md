@@ -5,6 +5,7 @@ Howdy! I'm an aspiring Web Developer in Austin, Texas. I began my coding journey
 
 ## Currently Studying 📝:
 
++ [React: The Complete Guide 2024 (incl. React Router & Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/ "Click to visit course page")
 + [20 Web Projects with Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/ "Click to visit course page")
 
 ## Completed Courses ✅:
