@@ -5,7 +5,7 @@ Howdy! I'm an aspiring Web Developer in Austin, Texas. I began my coding journey
 
 ## Current Project(s) 👩🏽‍💻:
 
-+ I asked ChatGPT to give me a study plan so I could dive back into coding after a year! Check out my [self_study](https://github.com/marfawilson/self_study "CLick to visit repository") repo for updates.
++ I asked ChatGPT to give me a study plan so I could dive back into coding after a year! Check out my progress in [this folder](https://github.com/marfawilson/self_study/tree/main/currently_studying/chatgpt_studyplan_01 "CLick to visit repository").
 
 ## Courses I've Taken ✅:
 
